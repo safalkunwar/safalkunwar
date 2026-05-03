@@ -18,8 +18,8 @@
 I'm a passionate full-stack developer with expertise in building innovative solutions across web, mobile, and AI domains. I specialize in real-time tracking systems, AI-powered educational platforms, and enterprise management solutions. Currently focused on creating intelligent applications that solve real-world problems.
 
 **Key Highlights:**
-- 🎯 6+ years of development experience
-- 🌍 Built real-time GPS tracking systems serving thousands of users
+- 🎯 4+ years of development experience
+- 🌍 Built real-time GPS tracking systems serving multipe users
 - 🤖 Developed AI-powered educational testing platforms
 - 📱 Mobile app development (Kotlin, JavaScript)
 - 🔧 Full-stack web development with modern frameworks
@@ -144,7 +144,7 @@ Extensive collection of resources and evaluation tools for IELTS and PTE exam pr
 **Let's collaborate and build something amazing!**
 
 📧 Email: [sawfallkunwar@gmail.com](mailto:sawfallkunwar@gmail.com)  
-💼 LinkedIn: [linkedin.com/in/safalkunwar](https://www.linkedin.com/in/safalkunwar)  
+💼 LinkedIn: [linkedin.com/in/safalkunwar](https://www.linkedin.com/in/safal-kunwar-7422913a0/)  
 🌐 GitHub: [github.com/safalkunwar](https://github.com/safalkunwar)  
   
 </div>
