@@ -28,31 +28,31 @@ I'm a passionate full-stack developer with expertise in building innovative solu
 
 ## 💼 Featured Projects
 
-### 🔴 **PTE - AI-Powered English Proficiency Testing**
+###  **PTE - AI-Powered English Proficiency Testing**
 An advanced platform using independent AI models to simulate PTE-style exam tasks with realistic scoring and instant feedback.
 - **Tech:** TypeScript, AI/ML, Real-time Scoring
 - **Impact:** Provides comprehensive skill diagnostics and performance analysis
 - 🔗 [View Project](https://github.com/safalkunwar/PTE)
 
-### 📍 **V-TRACK - Real-Time Vehicle Tracking System**
+###  **V-TRACK - Real-Time Vehicle Tracking System**
 Enterprise-grade GPS tracking platform providing real-time vehicle movement updates with Firebase integration.
 - **Tech:** JavaScript, Firebase, GPS Technology, Real-time Updates
 - **Features:** Live location tracking, driver module, user notifications
 - 🔗 [View Project](https://github.com/safalkunwar/V-TRACK)
 
-### 🚜 **AgriSense - Agricultural Management Solution**
+### **AgriSense - Agricultural Management Solution**
 Inclusive and scalable platform empowering farmers with institutional responsiveness and data-driven insights.
 - **Tech:** JavaScript, Web Technologies
 - **Impact:** Strengthens farmer-institution relationships through practical solutions
 - 🔗 [View Project](https://github.com/safalkunwar/Agrisense)
 
-### 🏢 **Office Management System**
+###  **Office Management System**
 Comprehensive internal office platform for managing student applications, class enrollments (IELTS/PTE), and staff activity tracking.
 - **Tech:** JavaScript, Database Management
 - **Features:** Student enrollment, staff management, activity tracking
 - 🔗 [View Project](https://github.com/safalkunwar/office)
 
-### 📚 **English Proficiency Resources**
+### **English Proficiency Resources**
 Extensive collection of resources and evaluation tools for IELTS and PTE exam preparation with comprehensive skill modules.
 - **Tech:** HTML, Educational Content
 - **Modules:** Listening, Reading, Writing, Speaking, Score Evaluation
@@ -93,7 +93,7 @@ Extensive collection of resources and evaluation tools for IELTS and PTE exam pr
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -105,7 +105,7 @@ Extensive collection of resources and evaluation tools for IELTS and PTE exam pr
 
 ---
 
-## 🎓 Expertise Areas
+##  Expertise Areas
 
 - **Real-Time Systems:** GPS tracking, live location updates, Firebase integration
 - **AI & Machine Learning:** Educational assessment, scoring algorithms
@@ -117,7 +117,7 @@ Extensive collection of resources and evaluation tools for IELTS and PTE exam pr
 
 ---
 
-## 📱 Recent Projects & Contributions
+##  Recent Projects & Contributions
 
 - **DevOps Research Review** - Technical documentation and research
 - **Driver Module** - Real-time GPS tracking with Firebase backend
@@ -127,7 +127,7 @@ Extensive collection of resources and evaluation tools for IELTS and PTE exam pr
 
 ---
 
-## 🌟 Notable Achievements
+##  Notable Achievements
 
 ✅ Built scalable real-time tracking system handling multiple concurrent users  
 ✅ Developed AI-powered testing platform with realistic exam simulation  
