@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Safal Kunwar
+# HEY there, I'm Safal Kunwar
 
 <div align="center">
   
@@ -13,16 +13,16 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a passionate full-stack developer with expertise in building innovative solutions across web, mobile, and AI domains. I specialize in real-time tracking systems, AI-powered educational platforms, and enterprise management solutions. Currently focused on creating intelligent applications that solve real-world problems.
 
 **Key Highlights:**
-- 🎯 4+ years of development experience
-- 🌍 Built real-time GPS tracking systems serving multipe users
-- 🤖 Developed AI-powered educational testing platforms
-- 📱 Mobile app development (Kotlin, JavaScript)
-- 🔧 Full-stack web development with modern frameworks
+- 4+ years of development experience
+- Built real-time GPS tracking systems serving multipe users
+- Developed AI-powered educational testing platforms
+- Mobile app development (Kotlin, JavaScript)
+- Full-stack web development with modern frameworks
 
 ---
 
