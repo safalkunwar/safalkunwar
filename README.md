@@ -1,4 +1,4 @@
-# HEY there, I'm Safal Kunwar
+# Ni Hao, I'm Safal Kunwar
 
 <div align="center">
   
@@ -161,6 +161,5 @@ Most of my projects are open-source. Check individual repositories for specific 
 
 ⭐ If you find my work interesting, consider giving it a star!
 
-Made with ❤️ by Safal Kunwar
 
 </div>
