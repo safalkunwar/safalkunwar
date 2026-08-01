@@ -13,13 +13,13 @@
 
 ---
 
-##  About Me
+## About Me
 
-I'm a passionate full-stack developer with expertise in building innovative solutions across web, mobile, and AI domains. I specialize in real-time tracking systems, AI-powered educational platforms, and enterprise management solutions. Currently focused on creating intelligent applications that solve real-world problems.
+I'm a passionate full-stack developer specializing in real-time tracking systems and AI-powered educational platforms. I build scalable web and mobile applications with a focus on performance, reliability, and user experience.
 
 **Key Highlights:**
 - 4+ years of development experience
-- Built real-time GPS tracking systems serving multipe users
+- Built real-time GPS tracking systems serving multiple users
 - Developed AI-powered educational testing platforms
 - Mobile app development (Kotlin, JavaScript)
 - Full-stack web development with modern frameworks
@@ -28,13 +28,13 @@ I'm a passionate full-stack developer with expertise in building innovative solu
 
 ## 💼 Featured Projects
 
-###  **PTE - AI-Powered English Proficiency Testing**
+### **PTE - AI-Powered English Proficiency Testing**
 An advanced platform using independent AI models to simulate PTE-style exam tasks with realistic scoring and instant feedback.
 - **Tech:** TypeScript, AI/ML, Real-time Scoring
 - **Impact:** Provides comprehensive skill diagnostics and performance analysis
 - 🔗 [View Project](https://github.com/safalkunwar/PTE)
 
-###  **V-TRACK - Real-Time Vehicle Tracking System**
+### **V-TRACK - Real-Time Vehicle Tracking System**
 Enterprise-grade GPS tracking platform providing real-time vehicle movement updates with Firebase integration.
 - **Tech:** JavaScript, Firebase, GPS Technology, Real-time Updates
 - **Features:** Live location tracking, driver module, user notifications
@@ -46,7 +46,7 @@ Inclusive and scalable platform empowering farmers with institutional responsive
 - **Impact:** Strengthens farmer-institution relationships through practical solutions
 - 🔗 [View Project](https://github.com/safalkunwar/Agrisense)
 
-###  **Office Management System**
+### **Office Management System**
 Comprehensive internal office platform for managing student applications, class enrollments (IELTS/PTE), and staff activity tracking.
 - **Tech:** JavaScript, Database Management
 - **Features:** Student enrollment, staff management, activity tracking
@@ -105,7 +105,7 @@ Extensive collection of resources and evaluation tools for IELTS and PTE exam pr
 
 ---
 
-##  Expertise Areas
+## Expertise Areas
 
 - **Real-Time Systems:** GPS tracking, live location updates, Firebase integration
 - **AI & Machine Learning:** Educational assessment, scoring algorithms
@@ -117,7 +117,7 @@ Extensive collection of resources and evaluation tools for IELTS and PTE exam pr
 
 ---
 
-##  Recent Projects & Contributions
+## Recent Projects & Contributions
 
 - **DevOps Research Review** - Technical documentation and research
 - **Driver Module** - Real-time GPS tracking with Firebase backend
@@ -127,7 +127,7 @@ Extensive collection of resources and evaluation tools for IELTS and PTE exam pr
 
 ---
 
-##  Notable Achievements
+## Notable Achievements
 
 ✅ Built scalable real-time tracking system handling multiple concurrent users  
 ✅ Developed AI-powered testing platform with realistic exam simulation  
