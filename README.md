@@ -40,6 +40,18 @@ Enterprise-grade GPS tracking platform providing real-time vehicle movement upda
 - **Features:** Live location tracking, driver module, user notifications
 - 🔗 [View Project](https://github.com/safalkunwar/V-TRACK)
 
+### **Lingua - Language Learning Platform**
+Interactive language learning platform designed to help users master multiple languages through engaging lessons, interactive exercises, and real-time progress tracking.
+- **Tech:** React, Node.js, MongoDB, WebSockets
+- **Features:** Interactive lessons, progress tracking, speech recognition, community engagement
+- 🔗 [View Project](https://github.com/safalkunwar/Lingua)
+
+### **Sathi - Community Support Network**
+A peer-support platform connecting individuals with shared interests and experiences, fostering meaningful connections and collaborative growth.
+- **Tech:** Full-Stack Web Development, Real-time Chat, Community Management
+- **Impact:** Enables supportive communities and meaningful peer connections
+- 🔗 [View Project](https://github.com/safalkunwar/Sathi)
+
 ### **AgriSense - Agricultural Management Solution**
 Inclusive and scalable platform empowering farmers with institutional responsiveness and data-driven insights.
 - **Tech:** JavaScript, Web Technologies
@@ -160,6 +172,5 @@ Most of my projects are open-source. Check individual repositories for specific 
 <div align="center">
 
 ⭐ If you find my work interesting, consider giving it a star!
-
 
 </div>
